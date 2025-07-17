@@ -1,0 +1,504 @@
+<html lang="en"><head>
+  <!-- Primary Meta Tags -->
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#000">
+<meta name="author" content="Sunkara Yashwanth">
+<meta name="coverage" content="Worldwide">
+<meta name="rating" content="General">
+<meta name="revisit-after" content="1 day">
+<meta name="category" content="Cybersecurity, VAPT, Bug Bounty, Portfolio">
+<meta name="target" content="all">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="copyright" content="Sunkara Yashwanth">
+<meta name="language" content="English">
+<meta name="distribution" content="Global">
+<meta name="classification" content="Cybersecurity, Ethical Hacking, Bug Bounty">
+<meta name="designer" content="Sunkara Yashwanth">
+<meta name="owner" content="Sunkara Yashwanth">
+<meta name="description" content="Sunkara Yashwanth | Cybersecurity Specialist, Ethical Hacker &amp; Penetration Tester, Bug Bounty, Phishing Analysis, and Web Security. Recognized by NASA, TravelPerk, and Kiwa.">
+<meta name="keywords" content="Sunkara Yashwanth, ethical hacker, cybersecurity expert, penetration testing, web security, security audit, bug bounty hunter, OSINT, phishing analysis, CTF player, cybersecurity research, vulnerability management, malware analysis, threat intelligence, cybersecurity portfolio, exploit development, zero-day research, secure coding, risk assessment, information security, cyber defense, cloud security, SOC analyst, digital forensics, AppSec specialist, API security, SIEM implementation, DevSecOps, network security, firewall security, security automation, incident response, NASA Hall of Fame, TravelPerk, Kiwa, vulnerability disclosure, security consultant, cybersecurity trainer, ethical hacking instructor, security awareness, security policy development, ISO 27001, PCI DSS, OWASP, Metasploit, Burp Suite, Wireshark, Nmap, Kali Linux, Python security scripting">
+
+<!-- Additional Professional Meta Tags -->
+<meta name="professional:role" content="Cybersecurity Expert &amp; Ethical Hacker">
+<meta name="professional:location" content="India">
+<meta name="professional:experience" content="Cybersecurity,Ethical Hacking, Bug Bounty">
+<meta name="professional:skills" content="Penetration Testing, Web Security, Security Assessment, Phishing Analysis, Exploit Development">
+
+<!-- Additional Service Tags -->
+<meta name="subject" content="Cybersecurity Services and Portfolio">
+<meta name="topic" content="Ethical Hacking, Security Research">
+<meta name="abstract" content="Professional portfolio of Sunkara Yashwanth, showcasing cybersecurity expertise and bug bounty achievements.">
+<meta name="summary" content="Cybersecurity professional specializing in VAPT, security assessments, and bug bounty hunting. Recognized for contributions to NASA, TravelPerk, and Kiwa.">
+
+<!-- Open Graph Meta Tags -->
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://your-portfolio-link.com/image.png">
+<meta property="og:title" content="Sunkara Yashwanth | Cybersecurity Specialist &amp; Ethical Hacker">
+<meta property="og:description" content="Cybersecurity professional with expertise in VAPT, bug bounty hunting, and security research. Recognized for contributions to NASA, TravelPerk, and Kiwa.">
+<meta property="og:url" content="https://your-portfolio-link.com/">
+<meta property="og:site_name" content="Sunkara Yashwanth - Cybersecurity Portfolio">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Portfolio">
+<meta name="twitter:title" content="Rahul Kumar Sah | Software engineer Specialist &amp; Security Maintainance">
+<meta name="twitter:description" content="Cybersecurity professional specializing in VAPT, bug bounty hunting, and security research. Recognized for contributions to NASA, TravelPerk, and Kiwa.">
+<meta name="twitter:image" content="https://your-portfolio-link.com/image.png">
+
+<!-- JSON-LD Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Rahul Kumar Sah",
+    "jobTitle": "Software Engineer Specialist & Security Maintainance",
+    "description": "security assessments, and bug bounty hunting. Recognized by NASA, TravelPerk, and Kiwa.",
+    "url": "https://your-portfolio-link.com/",
+    "image": "https://your-portfolio-link.com/image.png",
+    "sameAs": [
+      "https://github.com/yourgithub",
+      "https://www.linkedin.com/in/yourlinkedin"
+    ],
+    "knowsAbout": [
+      "Penetration Testing",
+      "Bug Bounty",
+      "Vulnerability Assessment",
+      "Web Security",
+      "Cyber Threat Intelligence"
+    ]
+  }
+}
+</script>
+  <title>Rahul Kumar Sah - Software Enigineer Portfolio</title>
+  <link rel="icon" type="image/jpg" href="src/png/main-favicon-herish.jpg">
+  <!-- aos cdn -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
+  <!-- stylesheet -->
+  <link rel="stylesheet" href="style.css">
+  <!-- google fonts-->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Passions+Conflict&amp;family=Orbitron&amp;family=Fira+Code&amp;family=Six+Caps">
+
+<style type="text/css" id="mytempCss">._8mqQwQ { display: none; } ._1TWLMK.icF5zO { opacity: 0.01; }</style></head><body class="body" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" style="margin-top: 0px !important;">
+  <audio loop="" id="audioPlayer" style="display: none">
+    <source src="src/mp3/preloader.mp3" type="audio/mp3">
+  </audio>
+  <div id="preloader" style="display: none;"></div>
+  <noscript>Allow Javascript</noscript>
+
+  <header>
+    <div class="cursor-inner" id="cursor-inner" style="left: 540px; top: 99px;"></div>
+    <div class="cursor-outer" id="cursor-outer"></div>
+
+    <div class="navbar" id="navbar">
+      <div class="hey popup">Hey!</div>
+      <div class="logo" tabindex="0" aria-label="Herish Chaniyara logo">
+        <div class="logo-top">
+          <img src="src/png/nav-avatar.png" alt="animation-head" id="nav-avatar">
+        </div>
+      </div>
+      <div class="navbar-tabs" id="navbar-tabs">
+        <ul class="navbar-tabs-ul">
+          <li class="home activeThistab aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
+            <a href="#home" tabindex="0" aria-label="Home menu button">
+              &lt;/Home&gt;
+            </a>
+          </li>
+
+          <li class="about aos-init aos-animate" data-aos="fade-down" data-aos-delay="300">
+            <a href="#about" aria-label="about menu button">
+              &lt;/AboutMe&gt;
+            </a>
+          </li>
+
+          <li class="skills aos-init aos-animate" data-aos="fade-down" data-aos-delay="500">
+            <a href="#skills" aria-label="skills menu button">
+              &lt;/Skills&gt;
+            </a>
+          </li>
+
+          <li class="projects aos-init aos-animate" data-aos="fade-down" data-aos-delay="700">
+            <a href="#projects" aria-label="projects menu button">
+              &lt;/Projects&gt;
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- navbar tabs ends -->
+    </div>
+  </header>
+  <!-- header ends here -->
+
+  <main>
+    <!-- hamburger -->
+    <div class="hamburger aos-init aos-animate" id="hamburger" data-aos="fade">
+      <div class="hamburgerbase">
+        <button id="hamburger-button" onclick="hamburgerMenu()" tabindex="0" aria-label="Menu Button">
+          <span class="burger-bar" id="burger-bar1"></span>
+          <span class="burger-bar" id="burger-bar2"></span>
+          <span class="burger-bar" id="burger-bar3"></span>
+        </button>
+      </div>
+    </div>
+    <!-- hamburger -->
+    <div class="mobiletogglemenu" id="mobiletogglemenu">
+      <ul class="mobile-navbar-tabs-ul" id="mobile-ul">
+        <li id="home-mobile-tab" class="mobile-navbar-tabs-li home activeThismobiletab" onclick="hidemenubyli()">
+          <a href="#home" tabindex="0" aria-label="Home menu button">
+            &lt;/Home&gt;
+          </a>
+        </li>
+
+        <li id="aboutme-mobile-tab" class="mobile-navbar-tabs-li about" onclick="hidemenubyli()">
+          <a href="#about" tabindex="0" aria-label="about menu button">
+            &lt;/AboutMe&gt;
+          </a>
+        </li>
+        <li id="skills-mobile-tab" class="mobile-navbar-tabs-li skills" onclick="hidemenubyli()">
+          <a href="#skills" tabindex="0" aria-label="skills menu button">
+            &lt;/Skills&gt;
+          </a>
+        </li>
+        <li id="projects-mobile-tab" class="mobile-navbar-tabs-li projects" onclick="hidemenubyli()">
+          <a href="#projects" tabindex="0" aria-label="projects menu button">
+            &lt;/Projects&gt;
+          </a>
+        </li>
+      </ul>
+    </div>
+    <!-- mobile toggle menu ends -->
+
+    <section class="landing-page-container" id="home">
+      <div class="blob"></div>
+
+      <div class="text-content">
+        <article id="hello-friend" data-aos="fade-up" data-aos-delay="0" class="aos-init aos-animate">
+          <p class="jello">N</p>
+          <p class="jello">a</p>
+          <p class="jello">m</p>
+          <p class="jello">a</p>
+          <p class="jello">s</p>
+          <p class="jello">t</p>
+          <p class="jello">e</p>
+          <p class="jello">(</p>
+          <p class="jello">)</p>
+          <p class="jello">;</p>
+          &nbsp;
+          <p class="jello">I</p>
+          <p class="jello">'</p>
+          <p class="jello">m</p>
+        </article>
+        <article id="name" data-aos="fade-up" data-aos-delay="200" class="aos-init aos-animate">
+          <p class="jello">S</p>
+          <p class="jello">u</p>
+          <p class="jello">n</p>
+          <p class="jello">k</p>
+          <p class="jello">a</p>
+          <p class="jello">r</p>
+          <p class="jello">a</p>
+          &nbsp;
+          <p class="jello">Y</p>
+          <p class="jello">a</p>
+          <p class="jello">s</p>
+          <p class="jello">h</p>
+          <p class="jello">w</p>
+          <p class="jello">a</p>
+          <p class="jello">n</p>
+          <p class="jello">t</p>
+          <p class="jello">h</p>
+          <p class="jello">.</p>
+        </article>
+
+        <article id="work" data-aos="fade-up" data-aos-delay="400" class="aos-init aos-animate">
+            <div>
+              <p class="jello">B</p>
+              <p class="jello">u</p>
+              <p class="jello">g</p>
+              <p class="jello">h</p>
+              <p class="jello">u</p>
+              <p class="jello">n</p>
+              <p class="jello">t</p>
+              <p class="jello">e</p>
+              <p class="jello">r</p>
+            </div>
+            <div>
+              <p class="jello">&amp;</p>
+            </div>
+            <div>
+              <p class="jello">P</p>
+              <p class="jello">e</p>
+              <p class="jello">n</p>
+              <p class="jello">t</p>
+              <p class="jello">e</p>
+              <p class="jello">s</p>
+              <p class="jello">t</p>
+              <p class="jello">e</p>
+              <p class="jello">r</p>
+              <p class="jello">.</p>
+            </div>
+        </article>
+        <p id="info-para" data-aos="fade-up" data-aos-delay="600" class="aos-init aos-animate">
+          I am a cybersecurity enthusiast with a passion for Offensive Security and hands-on experience in penetration testing, vulnerability assessment, bug hunting, and IT security operations. I enjoy solving CTF challenges and constantly work on improving my skills to stay updated in the field of cybersecurity.
+        </p>
+        <div class="contact-btn-div aos-init aos-animate" data-aos="fade-up" data-aos-delay="800">
+          <a href="src/pdf/Resume-Sunkara-Yashwanth.pdf" target="_blank" rel="noopener noreferrer" tabindex="0">
+            <button class="letsTalkBtn">
+              <p class="letsTalkBtn-text">Download CV</p>
+              <span class="letsTalkBtn-BG"></span>
+            </button>
+          </a>
+          <div class="setting-container" id="setting-container">
+            <input type="checkbox" id="switchforsetting" onclick="settingtoggle()">
+
+            <label for="switchforsetting" class="needtobeinvert" id="labelforsetting" tabindex="0" aria-label="settings for sound and appearance"></label>
+
+            <div class="visualmodetogglebuttoncontainer" id="visualmodetogglebuttoncontainer">
+              <input type="checkbox" id="switchforvisualmode" onclick="visualmode()">
+              <label for="switchforvisualmode" id="labelforvisualmode" tabindex="0" aria-label="switch appearance"></label>
+            </div>
+
+            <div class="soundtogglebuttoncontainer" id="soundtogglebuttoncontainer">
+              <input type="checkbox" id="switchforsound" onclick="playpause()">
+              <label for="switchforsound" id="labelforsound" tabindex="0" aria-label="switch sound" class="needtobeinvert"></label>
+            </div>
+          </div>
+          <!-- setting div ends -->
+        </div>
+        <!-- contact-btn-div -->
+      </div>
+
+    </section>
+    <!-- landing page ends here -->
+    <section class="about-section-container aos-init" id="about" data-aos="fade-up">
+      <div class="about-section">
+        <div class="section-heading">
+          <h2 class="section-heading-article" tabindex="0" aria-label="About me heading">
+            &lt;/AboutMe&gt;
+          </h2>
+          <p class="sectionHeadingP"></p>
+        </div>
+
+        <div class="info-dp-section">
+          <div class="about-info">
+            <p tabindex="0">
+              I am Sunkara Yashwanth, a cybersecurity enthusiast with a strong passion for Offensive Security, penetration testing, and bug hunting. I have hands-on experience in vulnerability assessments, phishing analysis, and penetration testing, gained through my work with GD Research Center and ERsegment Solutions.
+            </p>
+            <br>
+            <p tabindex="0">
+              I have also reported various security vulnerabilities through Responsible Vulnerability Disclosure Programs (RVDPs), contributing to a safer digital environment. Currently, I am pursuing a Bachelor’s degree in Computer Science and Engineering at JNTUH College of Engineering, continuously enhancing my skills in cybersecurity.
+            </p>
+            
+            
+            <!-- Profile button -->
+              <div class="text">Profile</div>
+            
+          </div>
+
+          <div class="dp parallax aos-init" data-aos="fade-up">
+            <img src="src/webp/yash.webp" alt="Sunkara Yashwanth" tabindex="0" aria-label="image of Yashwanth">
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- about section ends  -->
+
+    <section class="skills-section-container" id="skills">
+      <div class="skills-section">
+        <div class="section-heading aos-init" data-aos="fade-up">
+          <h2 class="section-heading-article" tabindex="0" aria-label="skills heading">
+            &lt;/Skills&gt;
+          </h2>
+          <p class="sectionHeadingP"></p>
+        </div>
+    
+        <div class="frontend-dev-section">
+          <h3 class="frontend-dev-heading aos-init" data-aos="fade-up" tabindex="0" aria-label="Security tools and technologies">
+            Technical Skills
+          </h3>
+          <ul class="tech-stack-wrapper">
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/portswigger.png" alt="Burp Suite" class="tech-stack-logo">
+              <span class="tooltip">BURP SUITE</span>
+            </li>
+    
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/nucleus.png" alt="MANAGEMENT" class="tech-stack-logo">
+              <span class="tooltip">VULNERABILITY MANAGEMENT</span>
+            </li>
+
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/linux.png" alt="Linux" class="tech-stack-logo">
+              <span class="tooltip">LINUX</span>
+            </li>
+    
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/networking.png" alt="Computer Networking" class="tech-stack-logo">
+              <span class="tooltip">COMPUTER NETWORKING</span>
+            </li>
+
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/phish.png" alt="PHISHING EMAIL ANALYSIS" class="tech-stack-logo">
+              <span class="tooltip">PHISHING EMAIL ANALYSIS</span>
+            </li>
+
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/dirsearch.png" alt="DIRSEARCH" class="tech-stack-logo">
+              <span class="tooltip">DIRSEARCH</span>
+            </li>
+            
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/excel.png" alt="MICROSOFT EXCEL" class="tech-stack-logo">
+              <span class="tooltip">MICROSOFT EXCEL</span>
+            </li>
+
+            <li class="tech-stack-box aos-init" data-aos="fade-up">
+              <img src="src/png/nmap.png" alt="NMAP" class="tech-stack-logo">
+              <span class="tooltip">NMAP</span>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </section>
+    <!-- skills section ends -->
+    <section class="projects-section-container" id="projects">
+      <div class="projects-section-div">
+        <div class="section-heading aos-init" data-aos="fade-up">
+          <h2 class="section-heading-article" tabindex="0" aria-label="My projects starts from here">
+            &lt;/Projects&gt;
+          </h2>
+          <p class="sectionHeadingP"></p>
+        </div>
+        <div class="project-boxes-div">
+          <div data-aos="fade-up" class="project-box-wrapper aos-init">
+            <div class="project-box project-box2" id="project-box2">
+              <div class="info-div">
+                <img src="src/png/gea.png" alt="GEA website favicon" class="faviconforProject">
+                <article class="ProjectHeading">GEA Website Security Testing</article>
+                <p class="ProjectDescription">
+                  Independently conducted VAPT on the GEA website, uncovering PII exposure. Provided a comprehensive proof-of-concept (PoC) report, earning recognition in the Hall of Fame.                </p>
+              </div>
+              <div class="image-div">
+                <img src="src/png/GEA engineering preview.png" alt="Shear Brilliance website Testing preview image">
+              </div>
+            </div>
+          </div>
+        <!-- ---------------------- -->
+          <div class="project-box-wrapper aos-init" data-aos="fade-up">
+            <div class="project-box project-box2" id="project-box2">
+              <div class="info-div">
+                <img src="src/svg/medium.png" alt="Vulnerability Assessment Tool favicon" class="faviconforProjectAquaregia">
+                <article class="ProjectHeading">NASA VDP: My First Valid Bug Triage Journey writeup</article>
+                <p class="ProjectDescription">
+                  I took part in NASA's Vulnerability Disclosure Program (VDP) and successfully triaged my first valid bug, marking a significant milestone in my security research journey. [Read more by clicking below.]
+                </p><div class="project-buttons">
+                  <a href="https://medium.com/@nani.yashwanth12/from-bug-report-to-hof-my-first-valid-bug-triage-from-nasa-vdp-36a8a1c65072" target="_blank" class="github-redirect" aria-label="Visit Aquaregia on GitHub">
+                    <img src="src/svg/medium-2177.svg" alt="github redirect button">
+                  </a>
+                  </div>
+              </div>
+              <div class="image-div">
+                <img src="src/png/bugcrowd.png" alt="Assessment Tool preview image">
+              </div>
+            </div>
+          </div>
+          <!-- ---------------------- -->
+          <div class="project-box-wrapper aos-init" data-aos="fade-up">
+            <div class="project-box project-box4" id="project-box4">
+              <div class="info-div">
+                <img src="src/png/tryhack.png" alt="PortSwigger website favicon" class="faviconforProject">
+                <article class="ProjectHeading">Tryhackme completed 40+ rooms</article>
+                <p class="ProjectDescription">
+                Completing these rooms deepened my understanding of cybersecurity concepts, including how and why Windows privilege escalation, Active Directory attacks, web exploits, buffer overflows, and post-exploitation techniques work.
+              </p></div>
+              <div class="image-div">
+                <img src="src/png/tryhackme.png" alt="PortSwigger Dashboard preview image">
+              </div>
+            </div>
+          </div>
+
+          <!-- ---------------------- -->
+          <div class="project-box-wrapper aos-init" data-aos="fade-up">
+            <div class="project-box project-box3" id="project-box3">
+              <div class="info-div">
+                <img src="src/png/inti.png" alt="netflix website favicon" class="faviconforProject">
+                <article class="ProjectHeading">INTIGRITI PLATFORM CONTRIBUTING</article>
+                <p class="ProjectDescription">
+                  Actively contributing in the Intigriti bug bounty platform by identifying and reporting security vulnerabilities.
+                </p>
+                <div class="project-buttons">
+                  <a href="https://app.intigriti.com/profile/yash4hack" target="_blank" class="cta" aria-label="Visit netflix clone live">
+                    <span>Live view</span>
+                    <svg viewBox="0 0 13 10" height="10px" width="15px">
+                      <path d="M1,5 L11,5"></path>
+                      <polyline points="8 1 12 5 8 9"></polyline>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+              <div class="image-div">
+                <img src="src/png/intigriti.png" alt="netflix clone website preview image">
+              </div>
+            </div>
+          </div>
+          <!-- ---------------------- -->
+  <!-- footer ends here -->
+  <script src="main.js"></script>
+  <script src="professional-image-parallax.js"></script>
+
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+  <script>
+    function openURL() {
+      var url = "src/pdf/Resume-Sunkara-Yashwanth.pdf";
+
+      window.open(url, "_blank");
+    }
+  </script>
+
+  <script>
+    const cursorInner = document.getElementById("cursor-inner");
+    const cursorOuter = document.getElementById("cursor-outer");
+    const links = document.querySelectorAll("a,label,button");
+
+    document.addEventListener("mousemove", function (e) {
+      const posX = e.clientX;
+      const posY = e.clientY;
+
+      cursorInner.style.left = `${posX}px`;
+      cursorInner.style.top = `${posY}px`;
+
+      // cursorOuter.style.left = `${posX}px`;
+      // cursorOuter.style.top = `${posY}px`;
+
+      cursorOuter.animate(
+        {
+          left: `${posX}px`,
+          top: `${posY}px`,
+        },
+        { duration: 500, fill: "forwards" }
+      );
+
+      links.forEach((link) => {
+        link.addEventListener("mouseenter", () => {
+          cursorInner.classList.add("hover");
+          cursorOuter.classList.add("hover");
+        });
+        link.addEventListener("mouseleave", () => {
+          cursorInner.classList.remove("hover");
+          cursorOuter.classList.remove("hover");
+        });
+      });
+    });
+  </script>
+
+
+</div></div></section></main><div id="bh-crx-root" style="display: block !important;"></div></body></html>
